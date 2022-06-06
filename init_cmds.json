@@ -1,0 +1,7 @@
+[
+  "gamerule randomTickSpeed 10",
+  "gamerule keepInventory true",
+  "gamerule disableElytraMovementCheck true",
+  "gamerule doFireTick false",
+  "gamerule playersSleepingPercentage 1"
+]
